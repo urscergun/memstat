@@ -1,5 +1,7 @@
 # MemStat
 
+![MemStat showing system RAM, an AMD integrated GPU and an NVIDIA RTX 3080 Laptop GPU](docs/screenshot.png)
+
 A tiny always-on-top Windows widget that shows memory usage at a glance:
 
 - **System RAM**: used / total
