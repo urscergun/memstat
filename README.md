@@ -7,6 +7,12 @@ A tiny always-on-top Windows widget that shows memory usage at a glance:
 
 It's a single ~12 KB executable written in plain C against the Win32 API. It has no C runtime, no installer and no dependencies beyond what ships with Windows.
 
+## Download
+
+**[Download MemStat.exe](https://github.com/urscergun/memstat/releases/latest/download/MemStat.exe)** (latest release), or see all [releases](https://github.com/urscergun/memstat/releases).
+
+The exe isn't code-signed, so Windows SmartScreen may warn the first time you run it. Click **More info → Run anyway**.
+
 ## Features
 
 - Updates once per second
